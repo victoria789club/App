@@ -1,0 +1,5 @@
+{
+  "name": "1. Movie Promotion AI",
+  "description": "An AI-powered tool to generate promotional materials for movies. Enter a movie title to get a compelling description, key selling points, and a custom-generated movie poster.",
+  "requestFramePermissions": []
+}
